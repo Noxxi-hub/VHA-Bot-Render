@@ -1,0 +1,6 @@
+discord.py
+flask
+google-genai
+pymongo[srv]
+langdetect
+python-dotenv
